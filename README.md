@@ -55,11 +55,11 @@
 * Harry Potter and the Goblet of Fire.
 * Harry Potter and the Half-Blood Prince.
 * Harry Potter and the Deathly Hallows.
-* Angels & Demons (2000) - Dan Brown
-* The Da Vinci Code (2003) - Dan Brown
-* The Lost Symbol (2009)- Dan Brown
-* Inferno (2013) - Dan Brown
-* Origin (2017) - Dan Brown
+* Angels & Demons- Dan Brown
+* The Da Vinci Code - Dan Brown
+* The Lost Symbol - Dan Brown
+* Inferno - Dan Brown
+* Origin - Dan Brown
 * 1984 - George Orwell
 * The Hitchhiker’s guide to galaxy - Douglas Adams
 * Life,Everything,and universe - Douglas Adams
@@ -91,6 +91,6 @@
 * Ikigai : The Japanese Secret to a Long and Happy Life Hector       Garia
 * Lean Startup - Eric Ries
 * The Power of Positive Thinking - Norman Vincent Peale
-* The Autobiography of Benjamin Franklin[29/9/20]
-* Einstein - Walter Isaacson [29/5/21]
-* Attitude is Everything - Jeff Keller [2/06/21]
+* The Autobiography of Benjamin Franklin
+* Einstein - Walter Isaacson
+* Attitude is Everything - Jeff Keller
