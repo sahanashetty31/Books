@@ -96,3 +96,4 @@
 * Attitude is Everything - Jeff Keller
 * The Fountainhead - Ayn Rand
 * Everyday Hero Manifesto - Robin Sharma
+* My Life and Work - Henry Ford
